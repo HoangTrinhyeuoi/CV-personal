@@ -1,0 +1,61 @@
+body
+{
+   background-image: url(https://img4.thuthuatphanmem.vn/uploads/2020/07/05/anh-background-cong-nghe-xanh_035953035.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: 100% 100%;      
+}
+.imagechange
+ {
+     
+     max-width: 400px;
+     max-height: 200px;
+     margin-left: auto;
+ }
+
+.heading-align
+ {
+     margin-right: 1rem;
+ }
+
+
+.image-heading
+ {
+     display: flex;
+     align-items: center;
+ }
+
+
+.hoangclgt 
+ {
+         margin-right: auto;
+         width: 750px;
+         height:400px;
+         border: 3px outset goldenrod;
+         background-color: lightcyan;
+         text-align: center;
+ }
+
+.idoltiktok
+ {
+         margin-left: auto;
+         width: 750px;
+         height: 400px;
+         border: 3px outset goldenrod;
+         background-color: mediumseagreen ;
+         text-align: center;
+ }
+
+.img1
+ {
+         float: right;
+         width: 350px;
+         height: 200px;
+ }
+
+.img2
+ {
+         float: left;
+         width: 350px;
+         height: 200px;
+ }
