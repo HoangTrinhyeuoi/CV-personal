@@ -1,0 +1,56 @@
+.imagechange
+ {
+     
+     max-width: 400px;
+     max-height: 200px;
+     margin-left: auto;
+ }
+
+.heading-align
+ {
+     margin-right: 1rem;
+ }
+
+
+.image-heading
+ {
+     display: flex;
+     justify-content: space-between;
+ }
+
+
+.hoangclgt 
+ {
+        flex-basis: 50%;
+        padding: 20px;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        
+ }
+
+.idoltiktok
+ {
+        flex-basis: 50%;
+        padding: 20px;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        
+ }
+
+.img1
+ {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;
+ }
+
+.img2
+ {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;   
+ }
+
+
